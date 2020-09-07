@@ -7,3 +7,5 @@ Limitation: 2 frame animations
 Arrow keys to move
 Esc to pause
 M to mute
+
+# Play here: https://cypor.itch.io/color-slide
